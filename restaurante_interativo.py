@@ -1,8 +1,14 @@
 # Sistema de Restaurante Interativo (Simulador de Terminal)
 cardapio = {
     "1": ("Hambúrguer Clássico", 25.00),
-    "2": ("Batata Frita Rústica", 15.00),
-    "3": ("Suco Natural", 10.00)
+    "2": ("Hambúrguer Bacon supremo", 30.00),
+    "3": ("Hambúrguer Baconcheddar", 35.00),
+    "4": ("Hambúrguer Vegano", 45.00),
+    "5": ("Batata Frita Rústica", 15.00),
+    "6": ("Suco Natural", 10.00),
+    "7": ("Refrigerante em Lata", 7.50),
+    "8": ("Combo Tech (Hambúrguer + Batata + Refri)", 42.00),
+    "9": ("Brownie com Sorvete", 18.90)
 }
 comanda = []
 total_conta = 0.0
